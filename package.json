@@ -1,0 +1,26 @@
+{
+  "name": "strapper",
+  "version": "0.0.0",
+  "description": "Coming Soon",
+  "main": "index.js",
+  "bin": "./bin/strapper",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/sonewman:strapper.git"
+  },
+  "author": "Sam Newman",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "git-url-parse": "^4.0.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "del": "^2.0.2",
+    "mocha": "^2.3.3"
+  }
+}
