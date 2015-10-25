@@ -1,6 +1,6 @@
 {
   "name": "strapper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Coming Soon",
   "main": "index.js",
   "bin": "./bin/strapper",
